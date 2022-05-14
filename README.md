@@ -1,2 +1,5 @@
-# Analysis-of-Machine-Learning-Algorithms-For-Anomaly-detection-in-IoT-Devices
-College Major Project
+# College Major Project
+# Analysis-of-Machine-Learning-Algorithms-for-Anomaly-Detection-in-IoT-Devices
+With the increased use of IoT infrastructure in every domain, threats and attacks in these infrastructures are also growing commensurately. Denial of Service, Data Type Probing, Malicious Control, Malicious Operation, Scan, Spying and Wrong Setup are such attacks and anomalies which can cause an IoT system failure. In this project we have analysed five machine learning algorithms, Logistic Regression, SVM, Decision Tree, Random Forest and ANN for detecting anomaly detection in IoT devices. All the models have given more than 98% accuracy. The evaluation metrics used in the comparison of performance are accuracy, precision, recall, f1 score, and area under the Receiver Operating Characteristic Curve. While logistic regression and SVM are giving an accuracy of 98.2%, decision tree, random forest and ANN are giving more than 99.4% of accuracy. Although these three models are giving almost same accuracy but after using some other evaluation metrices we found Random Forest to be the best one.
+# Link of the dataset is given below -
+https://www.kaggle.com/francoisxa/ds2ostraffictraces
